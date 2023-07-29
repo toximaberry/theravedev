@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ravedev.com.ng/</loc>
+  <lastmod>2022-01-18T01:58:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ravedev.com.ng/sell/project/</loc>
+  <lastmod>2021-11-30T20:49:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ravedev.com.ng/sell/</loc>
+  <lastmod>2021-11-30T21:00:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ravedev.com.ng/#about</loc>
+  <lastmod>2020-04-02T06:45:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ravedev.com.ng/#contact</loc>
+  <lastmod>2021-11-30T20:49:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ravedev.com.ng/#clients</loc>
+  <lastmod>2020-04-02T06:45:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
